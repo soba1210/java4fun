@@ -1,5 +1,6 @@
 public class MinimumOf3 {
 public static void main(String[] params){
+//1) Найти минимальное из 3х чисел
 int num = Integer.parseInt(params[0]);
 int num1 = Integer.parseInt(params[1]);
 int num2 = Integer.parseInt(params[2]);
